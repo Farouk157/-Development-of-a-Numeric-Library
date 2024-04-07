@@ -19,4 +19,9 @@ To design and implement a versatile numeric library utilizing the power of Moder
 4- min: Returns the minimum value among its arguments
 
 
+### Used the Meta Programming concept all functions implemented using C++ Templates, allowed them to accept one
+
+
+or more paramters
+
 
