@@ -5,7 +5,7 @@ To design and implement a versatile numeric library utilizing the power of Moder
 
 ## Core Features:
 
-Numeric Operations: The library will feature the following key numeric operations:
+### Numeric Operations: The library will feature the following key numeric operations:
 
 1- sum: Returns the summation of its arguments whatever their number and their data types
 
