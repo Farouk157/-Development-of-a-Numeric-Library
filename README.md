@@ -23,5 +23,4 @@ To design and implement a versatile numeric library utilizing the power of Moder
 
 
 
-![Uploading Screenshot from 2024-04-07 03-15-24.png…]()
 
